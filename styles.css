@@ -5,3 +5,9 @@ nav ul li{
     border: solid 1px black;
     padding: 5px;
 }
+
+.active {
+    font-weight: 900;
+    background: #cccccc;
+    padding: 5px;
+}
