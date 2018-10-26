@@ -1,6 +1,15 @@
 /* Styles for the Advanced Markup assignment. */
 
+/*Background styling*/
+
+html{
+    background-image: url(background1.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
 /*About Page Styles*/
+
 dt {
     font-weight:900;
 }
